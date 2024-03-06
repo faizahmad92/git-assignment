@@ -1,3 +1,7 @@
 Hello, Git World! 
 
+<<<<<<< HEAD
 add data branch1
+=======
+branch2 data
+>>>>>>> branch2
